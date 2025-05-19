@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.futurex.services.FutureXCourseApp.FutureXCourseAppApplic
+ ation
+
